@@ -1,0 +1,31 @@
+.button-secondary {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 5px 16px;
+  border: 1px solid #525252;
+  border-radius: 12px;
+  background: #858585;
+  background: -webkit-gradient(linear, left top, left bottom, from(#858585), to(#525252));
+  background: linear-gradient(to bottom, #858585, #525252);
+  text-shadow: #333333 1px 0px 0px;
+  font: normal normal normal 18px verdana;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.button-secondary:hover, .button-secondary:focus {
+  border: 1px solid #666666;
+  background: #a0a0a0;
+  background: -webkit-gradient(linear, left top, left bottom, from(#a0a0a0), to(#626262));
+  background: linear-gradient(to bottom, #a0a0a0, #626262);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.button-secondary:active {
+  background: #525252;
+  background: -webkit-gradient(linear, left top, left bottom, from(#525252), to(#525252));
+  background: linear-gradient(to bottom, #525252, #525252);
+}
+/*# sourceMappingURL=secondary.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACX,WAAW,EAAE,wBAAwB;EACrC,WAAW,EAAE,GAAG;EAChB,YAAY,EAAE,GAAG;EACjB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,KAAK;CACnB",
+    "sources": [
+        "primarytext.scss"
+    ],
+    "names": [],
+    "file": "primarytext.css"
+}

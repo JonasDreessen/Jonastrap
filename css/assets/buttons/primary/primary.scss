@@ -1,0 +1,51 @@
+.button-primary {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 30px;
+    border: 1px solid #3061ab;
+    border-radius: 12px;
+    background: #4e9dff;
+    background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#4e9dff),
+      to(#3061ab)
+    );
+    background: -moz-linear-gradient(top, #4e9dff, #3061ab);
+    background: linear-gradient(to bottom, #4e9dff, #3061ab);
+    text-shadow: #1e3d6b 1px 0px 0px;
+    font: normal normal bold 20px verdana;
+    color: #ffffff;
+    text-decoration: none;
+  
+    &:hover,
+    &:focus {
+      border: 1px solid #3c79d6;
+      background: #5ebcff;
+      background: -webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        from(#5ebcff),
+        to(#3a74cd)
+      );
+      background: -moz-linear-gradient(top, #5ebcff, #3a74cd);
+      background: linear-gradient(to bottom, #5ebcff, #3a74cd);
+      color: #ffffff;
+      text-decoration: none;
+    }
+    &:active {
+      background: #3061ab;
+      background: -webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        from(#3061ab),
+        to(#3061ab)
+      );
+      background: -moz-linear-gradient(top, #3061ab, #3061ab);
+      background: linear-gradient(to bottom, #3061ab, #3061ab);
+    }
+  }

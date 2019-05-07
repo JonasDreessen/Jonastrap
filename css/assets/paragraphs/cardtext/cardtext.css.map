@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAA;EACL,WAAW,EAAE,wBAAwB;EACrC,WAAW,EAAE,KAAK;CACrB",
+    "sources": [
+        "cardtext.scss"
+    ],
+    "names": [],
+    "file": "cardtext.css"
+}

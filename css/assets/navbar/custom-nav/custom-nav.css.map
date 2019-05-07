@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAA;EACP,gBAAgB,EAAE,QAAQ;EAC1B,KAAK,EAAE,KAAK;EACZ,KAAK,EAAE,IAAI;EACX,aAAa,EAAE,GAAG;CAYrB;;AAhBD,AAOI,WAPO,CAOP,CAAC,CAAA;EACG,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,KAAK;CAMf;;AAfL,AAWQ,WAXG,CAOP,CAAC,AAII,KAAK,CAAA;EACF,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "custom-nav.scss"
+    ],
+    "names": [],
+    "file": "custom-nav.css"
+}
